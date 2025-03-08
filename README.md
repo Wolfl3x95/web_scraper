@@ -76,8 +76,11 @@ Dati salvati con successo in prodotti_estratti.pdf
 
 ## 📞 **Contact**
 🔹 Created by **W3X - Raffaele Brancaccio**
+
 🔹 LinkedIn: **Raffaele Brancaccio**
+
 🔹 GitHub: **Wolfl3x95**
+
 🔹 Email: **dev.raffaelebrancaccio@gmail.com**
 
 Need custom scripts or modifications? Feel free to reach out! 🚀
