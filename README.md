@@ -39,7 +39,7 @@ pip install selenium webdriver-manager
 ```
 ---
 
-##🚀 Usage
+## 🚀 **Usage**
 Run the script and enter the website URL:
 ```bash
 python web_scraper.py
@@ -49,7 +49,7 @@ Then, choose the output format:
 
 ---
 
-##⚙ How It Works
+## ⚙ **How It Works**
 1️⃣ The script sends an HTTP request to the given URL.
 2️⃣ It parses the HTML to extract product titles and prices.
 3️⃣ It saves the data in the selected format (CSV, PDF, or Excel).
@@ -57,7 +57,7 @@ Then, choose the output format:
 
 ---
 
-##🏆 Example Output
+## 🏆 **Example Output**
 Here is an example of product extraction:
 ```bash
 Inserisci l'URL del sito da cui estrarre i dati: https://esempio.com/prodotti
@@ -74,22 +74,22 @@ Dati salvati con successo in prodotti_estratti.pdf
 
 ---
 
-##📞 Contact
-🔹 Created by W3X - Raffaele Brancaccio
-🔹 LinkedIn: Raffaele Brancaccio
-🔹 GitHub: Wolfl3x95
-🔹 Email: dev.raffaelebrancaccio@gmail.com
+## 📞 **Contact**
+🔹 Created by **W3X - Raffaele Brancaccio**
+🔹 LinkedIn: **Raffaele Brancaccio**
+🔹 GitHub: **Wolfl3x95**
+🔹 Email: **dev.raffaelebrancaccio@gmail.com**
 
 Need custom scripts or modifications? Feel free to reach out! 🚀
 
 ---
 
-##📜 License
+## 📜 **License*
 This project is licensed under the MIT License.
 You are free to modify and distribute it, but you must keep the original W3X credits visible in all generated files.
 
 ---
 
-##⭐ Support & Contributions
+## ⭐ **Support & Contributions**
 🔹 Give a ⭐ on GitHub if you find this useful!
 🔹 Feel free to submit issues or open pull requests for improvements.
