@@ -21,6 +21,7 @@
 First, install the required dependencies:
 ```bash
 pip install requests beautifulsoup4 pandas fpdf openpyxl
+```
 
 
 ---
@@ -28,21 +29,21 @@ pip install requests beautifulsoup4 pandas fpdf openpyxl
 If the website has **Cloudflare protection**, install:
 ```bash
 pip install cloudscraper
-
+```
 
 ---
 
 If the website uses **JavaScript to load data**, install:
 ```bash
 pip install selenium webdriver-manager
-
+```
 ---
 
 🚀 Usage
 Run the script and enter the website URL:
 ```bash
 python web_scraper.py
-
+```
 Then, choose the output format:
 📄 CSV | 📝 PDF | 📊 Excel
 
@@ -53,6 +54,23 @@ Then, choose the output format:
 2️⃣ It parses the HTML to extract product titles and prices.
 3️⃣ It saves the data in the selected format (CSV, PDF, or Excel).
 4️⃣ It ensures W3X credits remain in all generated files to protect the author’s work.
+
+---
+
+🏆 Example Output
+Here is an example of product extraction:
+```bash
+Inserisci l'URL del sito da cui estrarre i dati: https://esempio.com/prodotti
+In quale formato vuoi salvare i dati? (csv/pdf/excel): pdf
+Dati salvati con successo in prodotti_estratti.pdf
+```
+📸 Example of Extracted PDF
+
+📌 Title: USB-C Charger 20W
+💰 Price: €19.99
+
+📌 Title: Bluetooth Noise Cancelling Headphones
+💰 Price: €49.99
 
 ---
 
@@ -75,11 +93,3 @@ You are free to modify and distribute it, but you must keep the original W3X cre
 ⭐ Support & Contributions
 🔹 Give a ⭐ on GitHub if you find this useful!
 🔹 Feel free to submit issues or open pull requests for improvements.
-
----
-
-
-
-
-
-
